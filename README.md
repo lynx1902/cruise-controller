@@ -20,4 +20,4 @@ D : Derivate gain (helps to reduce overshoot due to integral gain)
 ​Desired value of velocity: $60 km/hr$
 
 ## Result
-
+![](result.png)
